@@ -3,14 +3,19 @@
 }
 
 .title {
-    background-color: green;
+    background-color: darkseagreen;
+    color: white;
     font-size: 24px;
     font-weight: bold;
+    max-width: 600px;
     text-align: center;
+    margin: 0 auto;
 }
 
 .recipe-index {
     font-style: italic;
+    list-style: none;
+    text-align: center;
 }
 
 h1 {
