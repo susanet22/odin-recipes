@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe-index {
+    font-style: italic;
+}
+
+h1 {
+    text-decoration: underline;
+    color: darkseagreen;
+}
+
+
+
